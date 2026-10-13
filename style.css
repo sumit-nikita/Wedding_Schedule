@@ -72,3 +72,6 @@ dialog[open]{animation:pop .35s cubic-bezier(.2,.9,.3,1.2)}
 .dt{font:600 1.7rem var(--serif)}.dbox .btns{justify-content:center;margin-top:20px}
 #dx{position:absolute;top:14px;right:16px;z-index:1;width:40px;height:40px;border:0;border-radius:50%;background:var(--mauve);color:#fff3e6;font-size:1.6rem;line-height:1;cursor:pointer}
 #dx:focus-visible{outline:2px solid var(--wine);outline-offset:3px}
+
+.fbbtn{display:inline-block;margin-top:26px;padding:12px 26px;border-radius:999px;background:var(--mauve);color:#fff3e6;font:500 1.15rem var(--serif);text-decoration:none}
+.fbbtn:focus-visible{outline:2px solid var(--wine);outline-offset:3px}
