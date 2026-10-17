@@ -13,9 +13,9 @@ window.W = {
   ],
   events: [
     { name: "Maunj & Other Rituals", time: "11 AM", date: "1st January, 2027", day: "Friday", place: "At Our Home", map: "https://maps.app.goo.gl/y3h3JM3fd8LoXZet7", note: "",
-      mr: { name: "मुंज आणि इतर विधी", date: "1 जानेवारी, 2027", day: "शुक्रवार", place: "आमच्या घरी", note: "" } },
+      mr: { name: "मुंज(उपनयन) आणि इतर विधी", date: "1 जानेवारी, 2027", day: "शुक्रवार", place: "आमचे राहते घरी (नागपूर)", note: "" } },
     { name: "Departure to Destination", time: "07:00 AM", date: "3rd January, 2027", day: "Sunday", place: "From Our Home", map: "https://maps.app.goo.gl/y3h3JM3fd8LoXZet7", note: "Please be on Time",
-      mr: { name: "ठिकाणाकडे प्रस्थान", date: "3 जानेवारी, 2027", day: "रविवार", place: "आमच्या घरी", note: "कृपया वेळेवर यावे." } },
+      mr: { name: "ठिकाणाकडे प्रस्थान", date: "3 जानेवारी, 2027", day: "रविवार", place: "आमचे राहते घरी (नागपूर)", note: "कृपया वेळेवर यावे." } },
     { name: "Haldi Rituals", time: "10:00 AM", date: "3rd January, 2027", day: "Sunday", place: "Shree Sparsh Farms", map: "https://maps.app.goo.gl/NopqJEvHtF7a6rjs5", note: "Dress Code = Yellow traditionals",
       mr: { name: "हळद विधी", date: "3 जानेवारी, 2027", day: "रविवार", place: "श्री स्पर्श फार्म्स", note: "ड्रेस कोड: पिवळा पारंपरिक पोशाख." } },
     { name: "Shrimant Pujan", time: "04:30 PM", date: "3rd January, 2027", day: "Sunday", place: "Shree Sparsh Farms", map: "https://maps.app.goo.gl/NopqJEvHtF7a6rjs5", note: "",
